@@ -1,0 +1,4 @@
+12 raised to the power of 2 is 144
+Error: Invalid input. Please provide integers.
+Error: Invalid input. Please provide integers.
+3 raised to the power of -5 is 0
